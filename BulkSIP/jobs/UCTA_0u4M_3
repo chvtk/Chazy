@@ -1,0 +1,3 @@
+ assign_taxonomy.py -m uclust --uclust_min_consensus_fraction 0.510000 --uclust_similarity 0.900000 --uclust_max_accepts 3 -t /home/chantal/RNASIP/data/databases/Silva_111_post/taxonomy/Silva_111_taxa_map_full.txt -r /home/chantal/RNASIP/data/databases/Silva_111_post/no_ambiguous_bases_files/97_Silva_111_rep_set_no_ambig.fasta -o /home/chantal/Chazy/data/otusn_tax/UCTA_0u4M_ -i /home/chantal/Chazy/data/otusn_tax/UCTA_0u4M_/UCTA_0u4M_.3.fasta 
+ mv /home/chantal/Chazy/data/otusn_tax/UCTA_0u4M_/UCTA_0u4M_.3_tax_assignments.log /home/chantal/Chazy/data/otusn_tax/UCTA_0u4M_.3_tax_assignments.log
+ mv /home/chantal/Chazy/data/otusn_tax/UCTA_0u4M_/UCTA_0u4M_.3_tax_assignments.txt /home/chantal/Chazy/data/otusn_tax/UCTA_0u4M_.3_tax_assignments.txt 

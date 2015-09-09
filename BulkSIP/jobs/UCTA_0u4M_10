@@ -1,0 +1,1 @@
+  poller.py -f /home/chantal/Chazy/data/otusn_tax/UCTA_0u4M_/expected_out_files.txt -m /home/chantal/Chazy/data/otusn_tax/UCTA_0u4M_/merge_map.txt -d /home/chantal/Chazy/data/otusn_tax/UCTA_0u4M_/deletion_list.txt -t 2 

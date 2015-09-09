@@ -1,0 +1,1 @@
+  poller.py -f data/otusn_Pool1_ITS_tax/UCTA_bdtU_/expected_out_files.txt -m data/otusn_Pool1_ITS_tax/UCTA_bdtU_/merge_map.txt -d data/otusn_Pool1_ITS_tax/UCTA_bdtU_/deletion_list.txt -t 2 
